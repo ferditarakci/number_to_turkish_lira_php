@@ -1,6 +1,6 @@
-# NumberToTurkishLira - PHP
+# Convert Turkish Lira From Number to Text With PHP
 
-### Sayıyı Türk Lirası Olarak Yazıya Çevirme - PHP
+### PHP ile Türk Lirasını Sayıdan Yazıya Çevirin
 
 **2012 yılında ASP ile hazırladığım sayıyı Türk Lirası olarak yazıya çevirme fonksiyonunu PHP'ye çevirip paylaşmak istedim.**
 
